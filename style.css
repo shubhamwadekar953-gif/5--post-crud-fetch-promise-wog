@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin : 0;
+    box-sizing: border-box;
+}
+
+
+.card{
+    background-color: rosybrown;
+    border : 5px solid black;
+    box-shadow: 0 0 15px;
+    border-radius: 20%;
+    color : white;
+    font-weight: bolder;
+}
+
+.card1{
+    background-color: aqua;
+    border : 5px solid black;
+}
+
+body{
+    background-color: brown;
+}
+
+.form-control{
+    border : 2px solid black;
+}
